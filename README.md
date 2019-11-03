@@ -1,4 +1,4 @@
-# chat-app-nuxt-express
+# nuxt-express
 
 > Nuxt, Vue, MongoDb and Express starter.
 
