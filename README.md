@@ -1,6 +1,6 @@
 # chat-app-nuxt-express
 
-> Mevn and SocketIO chat app
+> Nuxt, Vue, MongoDb and Express starter.
 
 ## Build Setup
 
